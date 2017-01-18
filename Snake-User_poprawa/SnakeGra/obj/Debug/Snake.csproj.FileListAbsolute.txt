@@ -1,0 +1,18 @@
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\bin\Debug\SnakeGra.exe.config
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\Snake.Form1.resources
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\SnakeGra.Properties.Resources.resources
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\bin\Debug\SnakeGra.exe
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\bin\Debug\SnakeGra.pdb
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\SnakeGra.exe
+C:\Users\Flex2\Documents\Visual Studio 2015\Projects\Snake-User\SnakeGra\obj\Debug\SnakeGra.pdb
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\bin\Debug\SnakeGra.exe.config
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\SnakeGra.exe
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\SnakeGra.pdb
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\bin\Debug\SnakeGra.exe
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\bin\Debug\SnakeGra.pdb
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\Snake.Form1.resources
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\SnakeGra.Properties.Resources.resources
+C:\Users\Misiu\Desktop\Snake-User_poprawa\SnakeGra\obj\Debug\Snake.csproj.GenerateResource.Cache
